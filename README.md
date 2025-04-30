@@ -23,6 +23,5 @@ This repository contains a set of SQL queries I wrote to analyze customer orders
 <br>This query is designed to dig deeper into failed payments, showing us which payment methods are causing the most issues. It’s super useful if you want to figure out if specific payment gateways or methods need attention.
 
 8. Customer Orders with Payment Info
-<br>
-Finally, this query joins the customerorders table with the payments table to give a detailed view of each order along with its payment info. It includes everything from the order date to the payment status, making it easy to track which payments are linked to which orders.
+<br>Finally, this query joins the customerorders table with the payments table to give a detailed view of each order along with its payment info. It includes everything from the order date to the payment status, making it easy to track which payments are linked to which orders.
 
